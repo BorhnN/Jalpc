@@ -17,7 +17,7 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.png  # upload your avatar at directory and edit it.
   github_username: borhnn  # Leave blank if you don't have now
   linkedin_id: borhnn # Leave blank if you don't have now
-  facebook_username: BorhnN  # Leave blank if you don't have now
+  facebook_username: # BorhnN  # Leave blank if you don't have now
   twitter_username: BorhnN  # Leave blank if you don't have now
   email: hello@borhnn.me  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
@@ -31,12 +31,12 @@ author:  # change following line to your infomation.
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #   name: jalpc
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+# ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
 #   id: UA-93473370-3
 
 ## google optimize
